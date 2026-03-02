@@ -1,0 +1,13 @@
+# Configuracion de PyCharm / IntelliJ
+.idea/
+
+# Archivos de sistema
+__pycache__/
+*.pyc
+
+# Archivos temporales de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de ejecucion
+inventario.txt
